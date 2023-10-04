@@ -1,0 +1,10 @@
+/* Dark mode styles */
+body.dark-mode {
+    background-color: #333;
+    color: #fff;
+}
+
+/* Custom icon for dark mode toggle */
+.dark-mode-toggle {
+    cursor: pointer;
+}

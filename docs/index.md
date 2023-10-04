@@ -1,5 +1,24 @@
-[Home](https://mandal-anik10.github.io/unipy/) &nbsp;&nbsp;&nbsp;&nbsp; [Installation](installation.md) &nbsp;&nbsp;&nbsp;&nbsp; [Modules](#modules) &nbsp;&nbsp;&nbsp;&nbsp; [About](#about) &nbsp;&nbsp;&nbsp;&nbsp; [Homepage](https://mandal-anik10.github.io)
-________________________________________________________________________________________
+
+<link rel="stylesheet" href="darkmode.css">
+
+<script src="darkmode.js"></script>
+ 
+<div style="display: flex; justify-content: space-between;">
+    <div style="text-align: left;">
+    <a href='index.md'>Home</a> &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href='installation.md'>Installation</a> &nbsp;&nbsp;&nbsp;&nbsp; 
+    <a href='#modules'>Modules</a> &nbsp;&nbsp;&nbsp;&nbsp; 
+    <a href='#about'>About</a> &nbsp;&nbsp;&nbsp;&nbsp; 
+    <a href='https://mandal-anik10.github.io'>Homepage</a> 
+    </div>
+    <!-- <div style='text-align: right;' id="darkModeToggle" class="dark-mode-toggle">🌙</div>  -->
+    <button id="darkModeToggle">Toggle Dark Mode</button>
+
+</div> 
+
+
+
+__________________________________________________________________________
 # About
 A unified module for numerical calculations in physics using python.
 
